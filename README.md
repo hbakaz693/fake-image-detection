@@ -6,7 +6,6 @@ Ce projet vise à détecter les images générées par IA et les distinguer des 
 - Évaluer les performances
 
   ## Structure du projet
-
 fake-image-project/
 ├── datasets/
 ├── code/
