@@ -12,7 +12,12 @@ fake-image-project/
 └── results/
 
 ## Étapes du projet
-### 1. Création des dossiers
-...
-### 2. Téléchargement des données
-...
+### 1. Création des dossiers sur drive 
+dossier fake-image-project:dossier global de peoject
+dossier datasets:contient datastes utilise 
+dossier results:pour stocker les resultats 
+### 2. Téléchargement de datasets depuis Kaggle 
+<img width="506" height="118" alt="image" src="https://github.com/user-attachments/assets/7f318f50-f648-47f2-a08f-16d7a2d03fc1" />
+
+
+
