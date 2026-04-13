@@ -37,6 +37,11 @@ Apres la connexion Avec Drive(Colab connecter avec Drive)
 <img width="554" height="22" alt="image" src="https://github.com/user-attachments/assets/bef22cee-24d9-4a66-96a6-9f5431eb7c65" />
 
 
+## 5. Prétraitement
+✅ 1ère étape du prétraitement : charger et lire les images
+
+
+
 
 
 
