@@ -38,7 +38,43 @@ Apres la connexion Avec Drive(Colab connecter avec Drive)
 
 
 ## 5. Prétraitement
-✅ 1ère étape du prétraitement : charger et lire les images
+✅ 1ère étape du prétraitement : charger et lire les images ou verifier que la datasets est bien Organiser
+
+
+<img width="293" height="83" alt="image" src="https://github.com/user-attachments/assets/51ec2d0a-fe99-45b5-9ad4-24af8826a5b9" />
+
+
+
+✅ 2ère étape du prétraitement : resize des images et Normalisation 
+    Objectif : Les CNN besone des images de meme taille 
+               Le plus utilise (224x224)
+               Normalisation : mettre les pixels entre 0 est 1 au lieu de 0-255 pour accelerer l'apprentissage
+
+
+
+<img width="332" height="135" alt="image" src="https://github.com/user-attachments/assets/4e8d5eab-6545-432c-b99e-fc25e7e14f64" />
+
+
+
+
+## 6 . Labelisation des donnees 
+👉 Objectif : donner une étiquette à chaque image
+🟢 real → 0
+🔴 fake → 1
+
+
+               
+
+
+
+
+
+
+
+
+
+
+
 
 
 
