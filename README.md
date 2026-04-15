@@ -70,6 +70,25 @@ Apres la connexion Avec Drive(Colab connecter avec Drive)
 
 
 
+# 8 . Construire le Modele 
+c'est l'etape le plus imporatnt de construction de notre projet 
+dans cette Etpa on va utiliser CNN 
+On va diviser cette etape au plusier etape pour le comprend bien :
+
+
+🧠 📌 Étape 1 : Architecture du modèle CNN
+
+🎯 Objectif
+
+Créer la structure du réseau qui va apprendre à reconnaître :
+
+😄 Real face
+🤖 Fake face
+
+
+
+
+
 
 
 
