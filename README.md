@@ -57,10 +57,21 @@ Apres la connexion Avec Drive(Colab connecter avec Drive)
 
 
 
-## 6 . Labelisation des donnees 
-👉 Objectif : donner une étiquette à chaque image
-🟢 real → 0
-🔴 fake → 1
+## 6 . Creation de  Label X et y 
+
+
+<img width="184" height="22" alt="image" src="https://github.com/user-attachments/assets/2c13cb22-de57-4ba7-9de2-d0364953c7fa" />
+
+
+## 7 . Separer les donner en train et test 
+
+
+<img width="370" height="145" alt="image" src="https://github.com/user-attachments/assets/215d52fe-cca3-4774-a72d-bf4fbbaf47e6" />
+
+
+
+
+
 
 
                
