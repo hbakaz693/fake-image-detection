@@ -6,7 +6,7 @@ Ce projet vise à détecter les images générées par IA et les distinguer des 
 - Construire un modèle CNN
 - Évaluer les performances
 
-  ## Structure du projet
+## Structure du projet
 fake-image-project/
 ├── datasets/
 ├── code/
