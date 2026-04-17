@@ -1,5 +1,5 @@
 
-# Fake Image Detection Project:Construction au model IA a zero
+# Fake Image Detection Project
 Ce projet vise à détecter les images générées par IA et les distinguer des images réelles en utilisant le Deep Learning.
 ## Objectifs
 - Détecter les images fake vs real
