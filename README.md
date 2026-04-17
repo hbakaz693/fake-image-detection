@@ -1,4 +1,5 @@
-# Fake Image Detection Project
+
+# Fake Image Detection Project:Construction au model IA a zero
 Ce projet vise à détecter les images générées par IA et les distinguer des images réelles en utilisant le Deep Learning.
 ## Objectifs
 - Détecter les images fake vs real
@@ -77,13 +78,12 @@ On va diviser cette etape au plusier etape pour le comprend bien :
 
 
 🧠 📌 Étape 1 : Architecture du modèle CNN
+CNN : Est deja comme une reseaux des neurones qui permet la creation des model qui traiter les image 
+Ce code montre tous les etape de construction de model A a Z(les etapes en detailles)
 
-🎯 Objectif
 
-Créer la structure du réseau qui va apprendre à reconnaître :
 
-😄 Real face
-🤖 Fake face
+
 
 
 
