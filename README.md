@@ -92,7 +92,10 @@ Ce code montre tous les etape de construction de model A a Z(les etapes en detai
 
 
 
-<img width="325" height="142" alt="image" src="https://github.com/user-attachments/assets/fbb88ba9-111c-42d7-8208-49bd4e959f1a" />
+<img width="501" height="150" alt="image" src="https://github.com/user-attachments/assets/87e733d0-601e-4b51-9573-f9bd22117f72" />
+
+
+
 
 
 
