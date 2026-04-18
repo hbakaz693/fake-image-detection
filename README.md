@@ -82,6 +82,26 @@ CNN : Est deja comme une reseaux des neurones qui permet la creation des model q
 Ce code montre tous les etape de construction de model A a Z(les etapes en detailles)
 
 
+<img width="488" height="44" alt="image" src="https://github.com/user-attachments/assets/2d0b5de5-8b25-48d6-9daf-70309e9f6270" />
+
+
+<img width="504" height="253" alt="image" src="https://github.com/user-attachments/assets/acb1ab6d-f735-4531-bac4-27319530ce97" />   
+
+
+<img width="423" height="242" alt="image" src="https://github.com/user-attachments/assets/1f0d9ce4-cef7-4a62-8991-80eddd06279c" />
+
+
+
+<img width="325" height="142" alt="image" src="https://github.com/user-attachments/assets/fbb88ba9-111c-42d7-8208-49bd4e959f1a" />
+
+
+
+
+
+
+
+
+
 
 
 
